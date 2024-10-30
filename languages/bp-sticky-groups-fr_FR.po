@@ -1,0 +1,79 @@
+# Copyright (C) 2013 BP Sticky Groups
+# This file is distributed under the same license as the BP Sticky Groups package.
+msgid ""
+msgstr ""
+"Project-Id-Version: BP Sticky Groups 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/bp-sticky-groups\n"
+"POT-Creation-Date: 2013-12-14 20:24:26+00:00\n"
+"PO-Revision-Date: 2013-12-14 21:26+0100\n"
+"Last-Translator: imath <mathchristo@yahoo.fr>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#: bp-sticky-groups.php:128
+msgid ""
+"BP Sticky Groups version %s requires at least <strong>BuddyPress %s</"
+"strong>, please upgrade"
+msgstr ""
+"Depuis sa version %s, BP Sticky Groups requiert à minima <strong>BuddyPress "
+"%s</strong>, merci de mettre à jour votre configuration."
+
+#: bp-sticky-groups.php:182
+msgctxt "group admin edit screen"
+msgid "Sticky Group"
+msgstr "Mise en avant du groupe"
+
+#: bp-sticky-groups.php:211
+msgid "Stick this group to top"
+msgstr "Mettre en avant le groupe"
+
+#: bp-sticky-groups.php:212
+msgid "Stick this group to the top of groups directory front page?"
+msgstr "Mettre ce groupe en avant au sein du répertoire des groupes ?"
+
+#: bp-sticky-groups.php:220
+msgid "Yes"
+msgstr "Oui"
+
+#: bp-sticky-groups.php:224
+msgid "Hidden groups cannot be sticked to front"
+msgstr "Les groupes masqués ne peuvent être mis en avant"
+
+#: bp-sticky-groups.php:524
+msgid "Sticky groups"
+msgstr "Mise en avant des groupes"
+
+#: bp-sticky-groups.php:547
+msgid "Enable sticky groups in Groups Directory"
+msgstr ""
+"Autoriser la mise en avant des groupes au sein du répertoire des groupes"
+
+#: bp-sticky-groups.php:548
+msgid "Administrators can set groups as sticky from the Group Admin UI"
+msgstr ""
+"Les administrateurs peuvent mettre en avant les groupes depuis l&#39;"
+"administration des groupes (back office)."
+
+#. Plugin Name of the plugin/theme
+msgid "BP Sticky Groups"
+msgstr "BP Sticky Groups"
+
+#. Plugin URI of the plugin/theme
+msgid "http://imathi.eu/tag/bp-sticky-groups/"
+msgstr "http://imathi.eu/tag/bp-sticky-groups/"
+
+#. Description of the plugin/theme
+msgid "A plugin to stick BuddyPress groups to top of the groups directory"
+msgstr ""
+"Un plugin pour mettre en avant les groupes au sein du répertoire des groupes"
+
+#. Author of the plugin/theme
+msgid "imath"
+msgstr "imath"
+
+#. Author URI of the plugin/theme
+msgid "http://imathi.eu/"
+msgstr "http://imathi.eu/"

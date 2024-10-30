@@ -1,0 +1,13 @@
+#buddypress ul.item-list li.sticky-group div.item-title a,
+.widget_bp_groups_widget ul.item-list li.sticky-group div.item-title a{
+	display:inline-block;
+	background:#ffd;
+	font-weight:bold;
+	padding:0 5px;
+	border: 1px solid #cb2;
+	text-decoration: none;
+}
+
+body.wp-admin #bp-groups-form tr.sticky-group{
+	background:#ffd;
+}
